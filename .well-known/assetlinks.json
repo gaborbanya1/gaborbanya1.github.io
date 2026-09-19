@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ecogong.app",
+        "sha256_cert_fingerprints": ["D3:C7:14:86:3D:4F:D0:68:50:E2:FB:F2:03:99:D9:1E:E6:B2:2C:9A:11:76:CE:BA:EB:48:5A:0F:A3:06:4D:A1"]
+      }
+    }]
